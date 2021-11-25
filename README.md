@@ -2,6 +2,7 @@
 ASK, QAM, PSK, FSK, MSK simulations and analysis.
 
 Lab exercises for Digital Communications I course, 6th Semester 2021 of the Electrical and Computer Engineering School at the National Technical University of Athens.
+
 In this course I used MATLAB to simulate transmitter-channel-receiver systems using various modulation techniques, and compare their spectrum and bit error rate.
 
 ### Lab 1: FFT
